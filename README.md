@@ -1,16 +1,22 @@
-## Hi there 👋
+# AobaRino
 
-<!--
-**AobaRino/AobaRino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 这里没有个人介绍，只有一些尚未触发的异常。
 
-Here are some ideas to get you started:
+```text
+系统状态    勉强在线
+运行原理    暂不便透露
+剩余理智    已转为后台任务
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+代码能跑，但不建议问它为什么。
+
+---
+
+### 更新日志（未经现实验证）
+
+- 修复了一个问题，并为后续版本准备了三个。
+- 优化了报错文案，现在看起来更像你的问题。
+- 将「稍后处理」迁移至「下辈子再说」。
+- 已知问题：一切正常。正在紧急排查。
+
+<sub>本页面已通过肉眼编译，生产环境请自行祈祷。</sub>
